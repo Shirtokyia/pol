@@ -24,6 +24,6 @@ html {
   body {
     border: 2px black
   }
-  .center-label {
+  label {
     text-align: center;
   }
