@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  h1 {
+    font-family: "Helvetica";
+    text-align: center
+  }
+  h2 {
+    font-family: "Helvetica";
+    text-align:center
+  }
+  p {
+    font-family: "Calibri Light";
+  }
+  input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 4px
+  }
+  body {
+    border: 2px black
+  }
+  .center-label {
+    text-align: center;
+  }
